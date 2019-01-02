@@ -3,4 +3,4 @@ http://moleculax.com.ve
 <br>
 
 # Screenshot
-![](docs/captura.png)
+<img src="https://github.com/moleculax/Crud-Php-Mysql/blob/master/docs/captura.png">
