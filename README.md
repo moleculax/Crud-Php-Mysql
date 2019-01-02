@@ -3,4 +3,4 @@ http://moleculax.com.ve
 <br>
 
 # Screenshot
-![](docs/screenshot.png)
+![](docs/captura.png)
